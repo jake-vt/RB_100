@@ -1,6 +1,6 @@
-# Launch School Course: RB_100
+# Launch School: RB_100
 
-**This repo tracks personal progress through this [Launch School] course.**
+### This repo tracks my personal progress through the RB_100 course at [Launch School].
 
 Most exercises of the exercises associated with this course have been attempted.
 
