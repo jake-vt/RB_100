@@ -1,6 +1,6 @@
-# The below shows that unlike method definition, method invocation (#each):
+# The below shows that:
     # In method definitions, local variable scope is restricted to the method definition itself. 
-    # In method invocation with a block, the variable scoping rules are more open - the block can use and modify (i.e. reassign) local variables defined outside the block.
+    # In method invocation (#each) with a block, the variable scoping rules are more open - the block can use and modify (i.e. reassign) local variables defined outside the block.
         # However, as the second example shows, the variable must first be initialized outside of the block in order to later be referenced outside of it.
       
 

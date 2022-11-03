@@ -102,7 +102,7 @@ contacts.each do |name, hash|
 end
 #note: defining new array 'fields' allows each key to be iteratively called into the 'contacts' hash iteratively
 #note: nested each methods enable .... ?? iteration through 'fields' array to be used to populate 'contacts' hash as it MUST BE CALLED FROM WITHIN THE METHOD
-#note: hash[field] iterativeludefines a new key in the empty {} hash in 'contacts' as being 
+#note: hash[field] iteratively defines a new key in the empty {} hash in 'contacts' as being 
 #note: .shift method pops out the FIRST element in the 'contact_data' array 
 
 ---------------
